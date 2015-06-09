@@ -1,2 +1,2 @@
 # MyFirstWebSite
-MyfirstWebSite -- Assignment for July 10
+MyfirstWebSite -- Assignment for June 10
